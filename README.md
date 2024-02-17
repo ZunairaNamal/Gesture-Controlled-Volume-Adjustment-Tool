@@ -1,4 +1,4 @@
-<h1 align="center">openai api experiments 🧪</h1>
+<h1 align="center">Gesture Controlled Volume Adjustment Tool🧪</h1>
 
 ## 👋 Hello
 
@@ -14,4 +14,6 @@ Press 'a' to exit the webcam.
 
 ## Contributions
 This was a solo hobby project to explore the how OPENCV can be integrated to haptics .  Feel free to fork this repo and make your own contributions!
+
+https://github.com/ZunairaNamal/Gesture-Controlled-Volume-Adjustment-Tool/assets/159707805/cd9e0127-78dc-4502-bd6a-e1e161f7d357
 
